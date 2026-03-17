@@ -1,4 +1,4 @@
-# AI Virtual Mouse
+# AI Virtual Mouse 
 
 A futuristic, contactless mouse controller that allows you to control your computer cursor using hand gestures and voice commands. Built with Python, OpenCV, and MediaPipe.
 
